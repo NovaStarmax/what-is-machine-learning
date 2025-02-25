@@ -53,8 +53,7 @@ Un projet en science des données suit généralement ces étapes :
 | Big Data | Hadoop, Spark |
 | Visualisation | Tableau, Power BI, Matplotlib |
 
-> Sources :
-> 
+### **Sources :**
 
 [Wikipédia](https://fr.wikipedia.org/wiki/Science_des_donn%C3%A9es)
 

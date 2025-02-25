@@ -46,7 +46,6 @@ Le Deep Learning se distingue du Machine Learning classique par sa capacité à 
 | **Puissance de calcul** | Moyenne | Très élevée (GPU, TPU) |
 | **Interprétabilité** | Explicable | Souvent une *boîte noire* |
 
-> Sources :
-> 
+### **Sources :**
 
 [Deep Learning Book](https://www.deeplearningbook.org/lecture_slides.html)

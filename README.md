@@ -6,7 +6,7 @@ Le Machine Learning (ou apprentissage automatique) est une branche essentielle d
 
 ## Objectif du projet
 
-Ce projet a pour but de documenter et d’expliquer les concepts fondamentaux liés à la science des données et à l’apprentissage automatique. Il s'inscrit dans une démarche de veille technologique et vise à fournir des ressources claires et accessibles aux apprenants souhaitant mieux comprendre ces notions.
+Ce projet vise à documenter et expliquer les concepts fondamentaux liés à la science des données et à l’apprentissage automatique. Il s'inscrit dans une démarche de veille technologique et vise à fournir des ressources claires et accessibles aux apprenants souhaitant mieux comprendre ces notions. Désormais, ce projet prend la forme d'un site web interactif permettant de naviguer facilement à travers les différentes notions abordées.
 
 ## Contenu
 
@@ -25,9 +25,38 @@ Les notions explorées dans ce projet sont les suivantes :
 11. **Une fonction de coût**
 12. **La descente de gradient**
 
-## Livrables
+## Installation et Lancement
 
-- **Documentation complète** : Une explication détaillée de chaque concept sous format Markdown.
-- **Repository GitHub** : Le projet sera hébergé sur un repository GitHub nommé `what-is-machine-learning`.
-- **Explication approfondie** : Deux notions seront développées sous un support explicatif.
+Pour exécuter le projet localement, assurez-vous d’avoir Node.js installé, puis suivez ces étapes :
 
+1. **Cloner le repository** :
+    
+    ```
+    git clone https://github.com/votre-repo/what-is-machine-learning.git
+    cd what-is-machine-learning
+    
+    ```
+    
+2. **Installer les dépendances** :
+    
+    ```
+    npm install
+    
+    ```
+    
+3. **Lancer le serveur de développement** :
+    
+    ```
+    npm run dev
+    
+    ```
+    
+
+Le site sera accessible à l'adresse `http://localhost:5173` par défaut.
+
+## Technologies utilisées
+
+- **Framework** : Vite / React
+- **Langage** : JavaScript / TypeScript
+- **Styling** : TailwindCSS
+- **Gestion des dépendances** : npm

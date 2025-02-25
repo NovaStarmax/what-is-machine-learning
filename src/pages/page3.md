@@ -59,8 +59,7 @@ Le pipeline typique d’un modèle supervisé comprend :
 5. **Évaluation** (utilisation des données de test pour mesurer la performance).
 6. **Optimisation** (ajustement des hyperparamètres, amélioration du modèle).
 
-> Sources :
-> 
+### **Sources :**
 
 [BookElemStat](https://hastie.su.domains/ElemStatLearn/)
 
